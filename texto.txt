@@ -1,0 +1,5 @@
+TÍTULO
+======
+
+Isto é um arquivo de texto simples para estudo do Git e do Github. Estou
+criando um arquivo para verificar o que acontece quando fazemos um merge.
