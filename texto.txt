@@ -4,4 +4,8 @@ TÍTULO
 Isto é um arquivo de texto simples para estudo do Git e do Github. Estou
 criando um arquivo para verificar o que acontece quando fazemos um merge.
 
+Esta linha está sendo criada no branch master. Isto dará um conflito que terá que ser resolvido no merge.
+
 Estou criando esta linha no branch "especulacao". Foi feita o comando clone para um diretório local e feita a edição no branch no diretório local.
+
+
