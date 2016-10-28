@@ -3,3 +3,5 @@ TÍTULO
 
 Isto é um arquivo de texto simples para estudo do Git e do Github. Estou
 criando um arquivo para verificar o que acontece quando fazemos um merge.
+
+Estou criando esta linha no branch "especulacao". Foi feita o comando clone para um diretório local e feita a edição no branch no diretório local.
