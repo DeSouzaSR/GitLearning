@@ -3,3 +3,5 @@ TÍTULO
 
 Isto é um arquivo de texto simples para estudo do Git e do Github. Estou
 criando um arquivo para verificar o que acontece quando fazemos um merge.
+
+Esta linha está sendo criada no branch master. Isto dará um conflito que terá que ser resolvido no merge.
